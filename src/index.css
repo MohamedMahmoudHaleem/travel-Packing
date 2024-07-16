@@ -137,7 +137,7 @@ input[type="checkbox"] {
 }
 @media (max-width: 750px) {
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 500;
     padding: 2rem 0.5rem;
   }
